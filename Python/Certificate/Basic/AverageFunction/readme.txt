@@ -12,10 +12,10 @@ The implementation will be tested by a provided code stub on several input files
 Example:
 --------
 3 arguments are read and passed to the function: 1, 2, and 3. 
-The average is calculated to be (1 +2 +3) / 3 = 2.00. 
+The average is calculated to be (1 + 2 + 3) / 3 = 2.00. 
 This is then returned as a float to be printed.
 
 Constraints:
 ------------
 + 1 < number of arguments for the function < 100
-+ -100 <value of passed arguments < 100
++ -100 < value of passed arguments < 100
