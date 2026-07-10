@@ -15,7 +15,8 @@ Example:
 The average is calculated to be (1 + 2 + 3) / 3 = 2.00. 
 This is then returned as a float to be printed.
 
+
 Constraints:
 ------------
-+ 1 < number of arguments for the function < 100
-+ -100 < value of passed arguments < 100
+• 1 < number of arguments for the function < 100
+• -100 < value of passed arguments < 100
