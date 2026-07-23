@@ -13,7 +13,7 @@ For example, a palindromic triangle of size 5 is:
 
 Input Format
 ------------
-A single line of input containing the integer .
+A single line of input containing the integer n.
 
 Constraints
 ------------
