@@ -28,6 +28,7 @@ An example of a user record is as follows:
   }
 
 If the user details is successfully fetched from the first API, use the id property of the details object to fetch the transactions information for the user.
+
 The API to fetch this is
   https://jsonmock.hackerrank.com/api/transactions?&userld=<userid>
 where <userld> is the id property fetched earlier.
