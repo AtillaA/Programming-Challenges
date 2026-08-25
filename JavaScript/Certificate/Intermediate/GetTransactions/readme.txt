@@ -5,7 +5,7 @@ Implement a function getNumTransactions(). It takes a username and it returns ei
 contain information about a user.
 
 Given a user name, the user details should be fetched by making a GET call to the API 
-  https://jsonmock.hackerrank.com/api/article_users?username=<username= 
+  https://jsonmock.hackerrank.com/api/article_users?username=<username>
 where <username> is the parameter passed to the getNumTransactions function.
 
 The response will be a JSON object with the following 5 fields:
@@ -29,7 +29,7 @@ An example of a user record is as follows:
 
 If the user details is successfully fetched from the first API, use the id property of the details object to fetch the transactions information for the user.
 The API to fetch this is
-  https:/jsonmock.hackerrank.com/api/transactions?&userld=<userid>
+  https://jsonmock.hackerrank.com/api/transactions?&userld=<userid>
 where <userld> is the id property fetched earlier.
 
 The response will be a JSON object with the following 5 fields:
