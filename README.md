@@ -1,4 +1,4 @@
-# HackerRank-Challenges
+# Programming-Challenges
 This repository contains solutions to a variety of programming problems and challenges gathered from distinct resources. Utilized programming languages are: Java, Python, C++, C#, JavaScript and TypeScript.
 
 Solutions are organized depending on the PL. Questions are categorized with respect to their category (certificate, preparement, or interview). All solutions that are provided under this repository are intended to prepare individuals for technical interviews, in addition to improving problem-solving skills.
