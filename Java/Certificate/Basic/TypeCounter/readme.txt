@@ -20,7 +20,7 @@ Function Description
 Complete the function typeCounter in the editor below.
 
 typeCounter has the following parameter(s):
-  string sentence: a string to analyze
+  - string sentence: a string to analyze
 
 Returns 
   None: Print the results within the function and return nothing.
@@ -28,7 +28,7 @@ Returns
 
 Constraints
 -----------
-• The length of sentence =< 30000 characters.
+• The length of sentence ≤ 30000 characters.
 • sentence has fewer than 1000 words.
 • One or more space characters separate the substrings to analyze.
 • Each string type substring consists of lowercase English letters only.
