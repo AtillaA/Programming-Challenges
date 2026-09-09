@@ -1,7 +1,7 @@
 Notes Store
 ------------
 
-In this challenge, the task is to implement a class called NotesStore. The class will manage a collection of notes, with each note having a state and a name. 
+Task is to implement a class called NotesStore. The class will manage a collection of notes, with each note having a state and a name. 
 Valid states for notes are ‘completed, ‘active’, and ‘others’. All other states are ‘invalid’.
 
 The class must have the following methods:
