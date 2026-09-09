@@ -1,3 +1,5 @@
+Total Retries
+-------------
 An integer "gap" defines the maximum allowed time difference (in seconds) to consider a retry. 
 
 Two arrays are provided: 
@@ -5,6 +7,7 @@ Two arrays are provided:
   - "timestamps" where each element represents the time of the corresponding log (sorted in non-decreasing order).
 
 A retry occurs when two consecutive logs for the same request ID have a time difference of at most "gap". Compute the total number of retries across all request IDs and return the result. 
+
 
 Constraints
 -----------
