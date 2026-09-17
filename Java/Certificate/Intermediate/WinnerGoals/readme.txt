@@ -29,8 +29,8 @@ Below is an example of such a JSON object:
 }
 
 Next, to access a collection of matches played by a given team in a given competition and year, perform GET requests to:
-  https://jsonmock.com/api/football_matches?competition= <competition>&year=<year>&team1=<team>&page=<page> 
-  https://jsonmock.com/api/football_matches?competition= <competition>&year=<year>&team2=<team>&page=<page>
+  https://jsonmock.com/api/football_matches?competition=<competition>&year=<year>&team1=<team>&page=<page> 
+  https://jsonmock.com/api/football_matches?competition=<competition>&year=<year>&team2=<team>&page=<page>
 
 Here, <competition> is the name of the competition, <year> is the year of the competition, <team> is the name of the team, and <page> is the page of the results to request.
 The results might be divided into several pages. Pages are numbered from 1.
