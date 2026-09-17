@@ -6,7 +6,7 @@ The task, for a given competition name and year, is to get the total number of g
 To access a competition, perform an HTTP GET request to: https://jsonmock.com/api/football_competitions?name=<name>&year=<year>
 where <name> is the name of the competition and <year> is the year of the competition.
 
-For example, a GET request to: https://jsonmock.hackerrank.com/api/football_competitions?name=English Premier League&year=2014
+For example, a GET request to: https://jsonmock.com/api/football_competitions?name=English Premier League&year=2014
 returns data associated with the English Premier League in the year 2014.
 
 The response to such a request is a JSON object that contains the property data, which is an array of competitions. In this case, the array will contain only a single item. 
