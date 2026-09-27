@@ -5,7 +5,7 @@ For a sequence of integers [a1, a2, ..., an], define the function f(i) as follow
   - Take the first i elements of a (a1, a2, ..., ai) and sort them in non-descending order. Call this new sequence si.
   - Let f(i) = 1*s1 + 2*s2 + ... + i*si
 
-Given a sequence of n integers, sort them in non-descending order then compute f(1) + f(2) + f(3) + ... + f(n).
+Given a sequence of n integers, sort them in non-descending order, then compute f(1) + f(2) + f(3) + ... + f(n).
 As the result may be very large, return it modulo (10^9 + 7).
 
 
